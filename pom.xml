@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<parent>
+		<artifactId>main-itcb</artifactId>
+		<groupId>net.sf.itcb.common</groupId>
+		<version>1.0.0</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.example</groupId>
+	<artifactId>git-learning-project</artifactId>
+	<packaging>pom</packaging>
+	<name>${project.artifactId}</name>
+	<version>1.0-SNAPSHOT</version>
+	<description>true main module. All true modules have to extend it directly or indirectly</description>
+	
+	
+	<url>true</url>
+	<issueManagement>
+	</issueManagement>
+	<inceptionYear>2011</inceptionYear>
+
+	<mailingLists>
+	</mailingLists>
+	<developers>
+	</developers>
+	<contributors>
+	</contributors>
+	<licenses>
+	</licenses>
+	<scm>
+		<connection></connection>
+		<developerConnection></developerConnection>
+		<url></url>
+	</scm>
+	<organization>
+		<name>true</name>
+		<url>true</url>
+	</organization>
+	
+	
+	<properties>
+		<!-- Custom properties for the company -->
+	</properties>
+		
+	<repositories>
+        <!-- Custom repository for the company -->
+	</repositories>
+	<build>
+		<!-- Custom build command for the company -->
+	</build>
+	
+	<dependencies>
+		<!-- Custom dependencies for the company -->
+    </dependencies>
+    
+    
+    
+    <profiles>
+       <!-- Custom profiles for the company -->
+    
+    </profiles>
+
+		
+	
+</project>
